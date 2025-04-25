@@ -26,3 +26,9 @@ print(
 " the coffiecient of vairation is ", CV
 )
 
+
+print("hello world : ")
+print("************")
+print("**********")
+print("*******")
+print("****")
