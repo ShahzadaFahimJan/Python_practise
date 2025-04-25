@@ -32,3 +32,7 @@ print("************")
 print("**********")
 print("*******")
 print("****")
+
+
+name = "fahim"
+print(name)
